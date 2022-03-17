@@ -1,0 +1,1 @@
+{"name":"RecordWithFieldTypes", "namespace":"interop.avro", "type":"record", "fields":[ {"name":"name","type":"string"}, {"name":"age","type":"int"}, {"name":"married","type":"boolean"}, {"name":"height","type":"float"}, {"name":"randb","type":"bytes"} ] }

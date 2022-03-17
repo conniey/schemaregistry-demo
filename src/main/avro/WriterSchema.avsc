@@ -1,0 +1,1 @@
+{"namespace":"interop.avro","type":"record","name":"WriterSchema","fields":[{"name":"name","type":"string"},{"name":"favorite_number","type":["int","null"]}]}
